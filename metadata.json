@@ -1,0 +1,6 @@
+{
+  "name": "College Cleaning Management System",
+  "description": "Cleaning Management System for Government College of Engineering and Research, Avasari Khurd. Campus hygiene & sanitation initiative with zone tracking, staff dispatch, incident reporting, audits, and AI protocol assistance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
